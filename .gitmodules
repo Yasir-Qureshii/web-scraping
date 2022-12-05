@@ -1,0 +1,21 @@
+[submodule "top100realestateagents"]
+	path = top100realestateagents
+	url = git@github.com:web-angle/top100realestateagents.git
+[submodule "timken"]
+	path = timken
+	url = git@github.com:web-angle/timken.git
+[submodule "marriage.ag"]
+	path = marriage.ag
+	url = git@github.com:web-angle/marriage.ag.git
+[submodule "mainevma"]
+	path = mainevma
+	url = git@github.com:web-angle/mainevma.git
+[submodule "blacktaxprofessionals"]
+	path = blacktaxprofessionals
+	url = git@github.com:web-angle/blacktaxprofessionals.git
+[submodule "futurepedia"]
+	path = futurepedia
+	url = git@github.com:web-angle/futurepedia.git
+[submodule "gibsondunn"]
+	path = gibsondunn
+	url = git@github.com:web-angle/gibsondunn.git
