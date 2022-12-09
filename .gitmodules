@@ -19,3 +19,6 @@
 [submodule "gibsondunn"]
 	path = gibsondunn
 	url = git@github.com:web-angle/gibsondunn.git
+[submodule "barcodelookup"]
+	path = barcodelookup
+	url = git@github.com:web-angle/barcodelookup.git
