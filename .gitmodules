@@ -22,3 +22,6 @@
 [submodule "barcodelookup"]
 	path = barcodelookup
 	url = git@github.com:web-angle/barcodelookup.git
+[submodule "ambiente"]
+	path = ambiente
+	url = git@github.com:web-angle/ambiente.git
